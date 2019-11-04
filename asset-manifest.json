@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-hooks-budget-calculation-build/static/css/main.91796ea2.chunk.css",
+    "main.js": "/react-hooks-budget-calculation-build/static/js/main.3dfee1d9.chunk.js",
+    "main.js.map": "/react-hooks-budget-calculation-build/static/js/main.3dfee1d9.chunk.js.map",
+    "runtime-main.js": "/react-hooks-budget-calculation-build/static/js/runtime-main.2d6c4a6b.js",
+    "runtime-main.js.map": "/react-hooks-budget-calculation-build/static/js/runtime-main.2d6c4a6b.js.map",
+    "static/js/2.193ef928.chunk.js": "/react-hooks-budget-calculation-build/static/js/2.193ef928.chunk.js",
+    "static/js/2.193ef928.chunk.js.map": "/react-hooks-budget-calculation-build/static/js/2.193ef928.chunk.js.map",
+    "index.html": "/react-hooks-budget-calculation-build/index.html",
+    "precache-manifest.13691951f68873d4efa90f548e6ae032.js": "/react-hooks-budget-calculation-build/precache-manifest.13691951f68873d4efa90f548e6ae032.js",
+    "service-worker.js": "/react-hooks-budget-calculation-build/service-worker.js",
+    "static/css/main.91796ea2.chunk.css.map": "/react-hooks-budget-calculation-build/static/css/main.91796ea2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6c4a6b.js",
+    "static/js/2.193ef928.chunk.js",
+    "static/css/main.91796ea2.chunk.css",
+    "static/js/main.3dfee1d9.chunk.js"
+  ]
+}
